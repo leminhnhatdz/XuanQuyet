@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "XuanQuyet Hub",
-    SubTitle = "Skid Hub Beta 99 | By Le Minh Nhat",
+    Title = "Rùa Hub",
+    SubTitle = "XuanQuyetDz | By Team Xuan Quyet",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = true,
